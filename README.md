@@ -7,7 +7,7 @@ Click on the image below to watch a video about setting up organizations or if y
 **What is an organization and why create one?**
 
 An organization represents a legal entity (as opposed to an individual). You'll want to create an organization on Open Collective if:
-* You want to sponsor a Collective as a company
+* You want to sponsor a Collective (project) in the name of your company
 * You want your employees to support Collectives on your company's behalf
 * You want to do bulk transfers (send money once and then distribute it to as many Collectives as you wish)
 * You want to become a Fiscal Host for a Collective
@@ -16,3 +16,6 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 
 1. If you don't have a profile already set up in Open Collective, click on the Sign In button on the top right-hand corner and then click the blue 'Join Free' link.
   ![Sign In screen](images/Signin.png)
+
+
+2. Click on Create Organization Profile. Fill out the relevant details and click the blue 
