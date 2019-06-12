@@ -2,5 +2,4 @@
 
 Click on the video below to learn all about organizations or if you prefer to read the guide instead, keep scrolling down.
 
-![Creating an organization](OC.mp4)
-
+[![](images/opencollectivelogo.png)](http://www.youtube.com/watch?v=0AixTyN2NaU)
