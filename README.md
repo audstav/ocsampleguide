@@ -1,5 +1,10 @@
 # Setting up an Organization
 
+In this section, you will learn how to
+* Create an Organization
+* Edit an Organization
+* View an Organization's Subscription
+
 Click on the image below to watch a video about setting up organizations or if you prefer to read the guide instead, keep scrolling down.
 
 [![](images/opencollectivelogo.png)](http://www.youtube.com/watch?v=0AixTyN2NaU)
@@ -12,7 +17,7 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 * You want to do bulk transfers (send money once and then distribute it to as many Collectives as you wish)
 * You want to become a Fiscal Host for a Collective
 
-**Creating an Organization**
+## Creating an Organization
 
 1. If you don't have a profile already set up in Open Collective, click on the 'Sign In' button on the top right corner and then click the blue 'Join Free' link.
   ![Sign In screen](images/Signin.png)
@@ -31,3 +36,6 @@ An organization represents a legal entity (as opposed to an individual). You'll 
    
 4. You will be taken to a page where you can fill out the fields to create a new organization to add to your profile. Finally click the blue <img src="images/CreateOrgButton1.png" alt="Create New Organization button" width="102px" height="22px">  button to save all changes.
   ![Create New Organization screen](images/CreateNewOrg.png)
+
+
+## Editing an Organization
