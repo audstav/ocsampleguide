@@ -14,9 +14,12 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 
 **Creating an Organization**
 
-1. If you don't have a profile already set up in Open Collective, click on the Sign In button on the top right-hand corner and then click the blue 'Join Free' link.
+1. If you don't have a profile already set up in Open Collective, click on the 'Sign In' button on the top right corner and then click the blue 'Join Free' link.
   ![Sign In screen](images/Signin.png)
 
 
 2. Click on Create Organization Profile. Fill out the relevant details and click the blue <img src="images/CreateOrgButton.png" alt="Create an Organization button" width="102px" height="22px"> button.
  ![Create an Organization screen](images/CreateOrgScreen.png)
+
+
+3. If you already have a profile set up in Open Collective, click on your profile name in the top right corner and click the 'New' button next to 'My Organizations'. 
