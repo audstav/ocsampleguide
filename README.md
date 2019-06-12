@@ -12,6 +12,7 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 * You want to do bulk transfers (send money once and then distribute it to as many Collectives as you wish)
 * You want to become a Fiscal Host for a Collective
 
-**Creating an Organization
+**Creating an Organization**
 
 1. If you don't have a profile already set up in Open Collective, click on the Sign In button on the top right-hand corner and then click the blue 'Join Free' link.
+  ![Sign In screen](images/Signin.png)
