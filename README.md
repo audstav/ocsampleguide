@@ -1,2 +1,3 @@
-# ocsampleguide
-Creating a New Collective
+# Setting up an Organization
+
+
