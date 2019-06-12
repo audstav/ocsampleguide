@@ -20,4 +20,3 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 
 2. Click on Create Organization Profile. Fill out the relevant details and click the blue <img src="images/CreateOrgButton.png" alt="Create an Organization button" width="102px" height="22px"> button.
  
-  
