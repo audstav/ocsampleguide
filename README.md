@@ -18,4 +18,5 @@ An organization represents a legal entity (as opposed to an individual). You'll 
   ![Sign In screen](images/Signin.png)
 
 
-2. Click on Create Organization Profile. Fill out the relevant details and click the blue 
+2. Click on Create Organization Profile. Fill out the relevant details and click the blue button.
+
