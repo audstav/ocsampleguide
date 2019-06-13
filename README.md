@@ -37,6 +37,7 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 4. You will be taken to a page where you can fill out the fields to create a new organization to add to your profile. Finally click the blue <img src="images/CreateOrgButton1.png" alt="Create New Organization button" width="102px" height="22px">  button to save all changes.
   ![Create New Organization screen](images/CreateNewOrg.png)
 
+[Go back to the top](#Setting-up-an-Organization)
 
 ## Editing an Organization
 
