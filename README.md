@@ -55,6 +55,8 @@ Finally, click on the blue <img src="images/Savebutton.png" alt="Save button" wi
   
 ![Edit Organization screen](images/EditProfile.png)
 
+[Go back to the top](#Setting-up-an-Organization)
+
 ## Viewing an Organization's Subscriptions
 
 1. To view or edit subscriptions, i.e. which Collectives to support, click on 'Subscriptions' in the Organization's home page.
@@ -62,3 +64,5 @@ Finally, click on the blue <img src="images/Savebutton.png" alt="Save button" wi
 
 2. This page lists all your current subscriptions. To add a new Collective to support, click on the 'Discover more collectives' link.
     ![Subscriptions](images/Discover.png)
+
+[Go back to the top](#Setting-up-an-Organization)
