@@ -1,7 +1,7 @@
 # Setting up an Organization
 
 In this section, you will learn how to
-* Create an Organization
+* [Create an Organization](#Creating-an-Organization)
 * Edit an Organization
 * View an Organization's Subscription
 
