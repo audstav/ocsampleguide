@@ -60,4 +60,4 @@ Finally, click on the blue <img src="images/Savebutton.png" alt="Save button" wi
    ![Organization Home screen](images/Subs.png)
 
 2. This page lists all your current subscriptions. To add a new Collective to support, click on the 'Discover more collectives' link.
-  
+    ![Subscriptions](images/Discover.png)
