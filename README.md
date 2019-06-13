@@ -41,4 +41,6 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 ## Editing an Organization
 
 1. After creating the organization, you will be taken to a screen where you can edit your profile. Click on the 'Edit Organization' button.
+  
 
+2. 
