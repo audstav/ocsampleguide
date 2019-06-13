@@ -52,4 +52,9 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 
 Finally, click on the blue <img src="images/Savebutton.png" alt="Save button" width="52px" height="22px"> button.
   
+![Edit Organization screen](images/EditProfile.png)
+
+## Viewing an Organization's Subscriptions
+
+1. From the Organization's home page, click on 'Subscriptions' to view or edit subscriptions, i.e. which Collectives to support.
 
