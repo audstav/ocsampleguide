@@ -1,9 +1,9 @@
 # Setting up an Organization
 
-In this section, you will learn how to
+In this section, you will learn how to:
 * [Create an Organization](#Creating-an-Organization)
 * [Edit an Organization](#Editing-an-Organization)
-* [View an Organization's Subscription](#Viewing-an-Organization's-Subscriptions)
+* [View an Organization's Subscription](#Viewing-an-Organizations-Subscriptions)
 
 Click on the image below to watch a video about setting up organizations or if you prefer to read the guide instead, keep scrolling down.
 
