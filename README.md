@@ -49,5 +49,7 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 * **Members**: Add organization members
 * **Payment methods**: View, edit and change payment methods (credit cards), and set a monthly spending limit
 * **Advanced**: change your Organization's URL
-Finally, click on the blue 
+
+Finally, click on the blue <img src="images/Savebutton.png" alt="Save button" width="52px" height="22px"> button.
+  
 
