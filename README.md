@@ -41,6 +41,13 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 ## Editing an Organization
 
 1. After creating the organization, you will be taken to a screen where you can edit your profile. Click on the 'Edit Organization' button.
-  
+  ![Edit Organization screen](images/EditOrg.png)
 
-2. 
+2. You can now edit the following information:
+* **Info**: Company's name, description, Twitter URL, company website etc.
+* **Images**: Logo and cover image
+* **Members**: Add organization members
+* **Payment methods**: View, edit and change payment methods (credit cards), and set a monthly spending limit
+* **Advanced**: change your Organization's URL
+Finally, click on the blue 
+
