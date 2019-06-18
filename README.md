@@ -2,7 +2,7 @@
 
 In this section, you will learn how to:
 * [Create an Organization](#creating-an-organization)
-* [Edit an Organization](#-editing-an-organization)
+* [Edit an Organization](#editing-an-organization)
 * [View an Organization's Subscription](#viewing-an-organizations-subscriptions)
 
 Click on the image below to watch a video about setting up organizations or if you prefer to read the guide instead, keep scrolling down.
@@ -37,7 +37,7 @@ An organization represents a legal entity (as opposed to an individual). You'll 
 4. You will be taken to a page where you can fill out the fields to create a new organization to add to your profile. Finally click the blue <img src="images/CreateOrgButton1.png" alt="Create New Organization button" width="102px" height="22px">  button to save all changes.
   ![Create New Organization screen](images/CreateNewOrg.png)
 
-[Go back to the top](#Setting-up-an-Organization)
+[Go back to the top](#setting-up-an-organization)
 
 ## Editing an Organization
 
@@ -55,7 +55,7 @@ Finally, click on the blue <img src="images/Savebutton.png" alt="Save button" wi
   
 ![Edit Organization screen](images/EditProfile.png)
 
-[Go back to the top](#Setting-up-an-Organization)
+[Go back to the top](#setting-up-an-organization)
 
 ## Viewing an Organization's Subscriptions
 
@@ -65,4 +65,4 @@ Finally, click on the blue <img src="images/Savebutton.png" alt="Save button" wi
 2. This page lists all your current subscriptions. To add a new Collective to support, click on the 'Discover more collectives' link.
     ![Subscriptions](images/Discover.png)
 
-[Go back to the top](#Setting-up-an-Organization)
+[Go back to the top](#setting-up-an-organization)
